@@ -57,7 +57,7 @@ export default defineConfig({
 					},
 					{
 						text: '使用无服务器部署方式',
-						link: '/users/shi-yong-wu-fu-wu-bu-shu-fang-shi'
+						link: '/users/shi-yong-wu-fu-wu-qi-bu-shu-fang-shi'
 					},
 					{
 						text: '公共站点',
