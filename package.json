@@ -1,26 +1,18 @@
 {
-  "version": "0.0.0",
-  "name": "vitepress-docs-starter",
-  "description": "vitepress 的文档模板",
+  "version": "0.1.0",
+  "name": "genshin-picker-docs",
+  "description": "原神点名器文档",
   "type": "module",
   "keywords": [
     "docs",
-    "unocss",
-    "starter",
-    "template",
     "vitepress"
   ],
   "author": {
-    "name": "markthree",
-    "email": "1801982702@qq.com",
-    "url": "https://github.com/markthree"
+    "name": "animation-picker",
+    "url": "https://github.com/animation-picker"
   },
   "license": "MIT",
-  "repository": "https://github.com/dishait/vitepress-docs-starter",
-  "bugs": {
-    "email": "1801982702@qq.com",
-    "url": "https://github.com/dishait/vitepress-docs-starter/issues"
-  },
+  "repository": "https://github.com/animation-picker/genshin-impact",
   "private": false,
   "scripts": {
     "dev": "vitepress dev docs",

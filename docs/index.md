@@ -1,22 +1,25 @@
 ---
 title: home
 layout: home
-sidebar: false
+sidebar: true
 
 hero:
-  name: Home
-  text: vitepress 的文档模板
-  tagline: 更快的开发开源文档
+  name: 原神抽卡模拟器
+  text: 
+  tagline: 基于`Genshin-Impact-Wish-Simulator`的二次开发项目
   image:
-    src: /logo.svg
+    src: /icon-512x512.png
     alt: Refs
   actions:
     - theme: brand
-      text: guide
-      link: /guide/
+      text: 用户文档
+      link: /users/bu-shu-jiao-cheng
     - theme: alt
-      text: about
-      link: /about/
+      text: 开发文档
+      link: /develop/begin
+    - theme: alt
+      text: Github
+      link: https://github.com/animation-picker/genshin-impact
 
 features:
   - title: TODO
