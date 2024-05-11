@@ -1,4 +1,5 @@
 ---
+title: 在本地设备使用软件包
 description: 从release直接下载编译好的软件包
 ---
 

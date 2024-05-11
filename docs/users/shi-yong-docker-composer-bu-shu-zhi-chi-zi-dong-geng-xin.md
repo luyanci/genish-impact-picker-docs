@@ -1,4 +1,5 @@
 ---
+title: 使用docker composer部署（支持自动更新）
 description: 自动更新部署方式
 ---
 

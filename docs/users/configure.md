@@ -1,5 +1,5 @@
 ---
-description: 配置教程
+title: 配置教程
 ---
 
 # 配置教程

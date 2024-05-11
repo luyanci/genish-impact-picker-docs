@@ -1,4 +1,5 @@
 ---
+title: 从源代码部署
 description: 从github仓库里的网站代码目录直接部署
 ---
 
