@@ -26,6 +26,6 @@
     "vue": "^3.4.27"
   },
   "dependencies": {
-    "vite-plugin-vitepress-auto-sidebar": "^1.6.4"
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.5"
   }
 }
