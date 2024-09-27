@@ -23,7 +23,7 @@
     "@types/node": "^20.12.12",
     "@vueuse/core": "^10.9.0",
     "vitepress": "1.3.3",
-    "vue": "^3.4.27"
+    "vue": "^3.5.10"
   },
   "dependencies": {
     "vite-plugin-vitepress-auto-sidebar": "^1.7.0"
